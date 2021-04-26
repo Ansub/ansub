@@ -2,7 +2,7 @@
 - 🔭 Curious
 - ⚡ Proponent of Internet, Space, Technology 
 - 😄 Data Science & Machine Learning Excites me!
-- - 💼 see my LinkedIn Profile <a href="https://www.linkedin.com/in/ansub/">here</a>
+- 💼 see my LinkedIn Profile <a href="https://www.linkedin.com/in/ansub/">here</a>
 - 💬 In my free time, I enjoy traveling, eating good food, and listening to music.
 
 
