@@ -1,4 +1,4 @@
-# Ansub Khan (<a href="https://twitter.com/ansubkhann">@ansubkhann</a>)
+# Ansub
 - 🔭 Curious
 - ⚡ Proponent of Internet, Space, Technology 
 - 😄 Data Science & Machine Learning Excites me!
