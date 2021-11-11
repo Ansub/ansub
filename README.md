@@ -4,7 +4,7 @@
 
 - 💻 Computer Application Graduate
 - ⚡ Proponent of Internet, Space, Technology 
-- 😄 Web Development Excites Me!
+- 😄 Python and Javascript Excites Me!
 - 💬 In my free time, I enjoy traveling, eating good food, and listening to music.
 
 
