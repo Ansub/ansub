@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Ansub Khan</h1>
-<h3 align="center">a developer and a designer</h3>
+<h3 align="center"> developer and designer</h3>
 
 - 💻 Computer Application Graduate
 - ⚡ Proponent of Internet, Space, Technology 
