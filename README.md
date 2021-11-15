@@ -5,7 +5,7 @@
 - 💻 Computer Application Graduate
 - ⚡ Proponent of Internet, Space, Technology 
 - 😄 Python and Javascript Excites Me!
-- 💬 In my free time, I enjoy traveling, eating good food, and listening to music.
+- 💬 Download My [Resume](https://drive.google.com/file/d/1z05ARqEeGmzDNxPgbFrmbaRbO4DXl7O4/view?usp=sharing)
 
 
 
