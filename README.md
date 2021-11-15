@@ -2,10 +2,10 @@
 <h1 align="center">Hi 👋, I'm Ansub Khan</h1>
 <h3 align="center"> Developer and Designer</h3>
 
-- 💻 Computer Application Graduate
-- ⚡ Proponent of Internet, Space, Technology 
+- 💻  Computer Application Graduate
+- ⚡  Proponent of Internet, Space, Technology 
 - 😄 Python and Javascript Excites Me!
-- 💬 Download My [Resume](https://drive.google.com/file/d/1z05ARqEeGmzDNxPgbFrmbaRbO4DXl7O4/view?usp=sharing)
+- 💬  Download My [Resume](https://drive.google.com/file/d/1z05ARqEeGmzDNxPgbFrmbaRbO4DXl7O4/view?usp=sharing)
 
 
 
