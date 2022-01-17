@@ -4,9 +4,7 @@
 
 - 💻  Computer Science Graduate
 - ⚡  Proponent of Internet, Space, Technology 
-- 😄 Python and Javascript Excite Me!
-- 💬  Download My [Resume](https://drive.google.com/file/d/1z05ARqEeGmzDNxPgbFrmbaRbO4DXl7O4/view?usp=sharing)
-
+- 😄 Web Development Excites Me!
 
 
 
