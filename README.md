@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Ansub Khan</h1>
-<h3 align="center"> Front-End Developer</h3>
+<h3 align="center"> Front-End Engineer and Designer</h3>
 
 - 💻  Computer Science Graduate
 - ⚡  Proponent of Internet, Space, Technology 
