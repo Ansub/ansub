@@ -2,10 +2,6 @@
 <h1 align="center">Hi 👋, I'm Ansub Khan</h1>
 <h3 align="center"> Front-End Engineer and Designer</h3>
 
-- ⚡  Proponent of Internet, Space, Technology 
-- 😄 Web Development Excites Me!
-
-
 
 ### Languages
 <div style="display:flex, flex-direction:row">
