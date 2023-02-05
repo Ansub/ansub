@@ -1,17 +1,19 @@
+## Hi 👋, I'm Ansub Khan
 
+#### 👾 About Me
+- 👋 &nbsp;I'm 21, currently living in **New Delhi, India**
+- ✨ &nbsp;I make pixels and code dance in harmony.
+- ✍️ &nbsp;I share my findings and knowledge on [My Blog](https://ansubkhan.com/blogs)
+- 🤡 I work with React & Typescript and love to explore new technologies
+- 💻 I love creating beautiful UI for a better UX using Chakra UI / Tailwind CSS
+- 📸 &nbsp;Photos on [Unsplash](https://unsplash.com/@ansubkhann)
 
-<h1 align="center">Hi 👋, I'm Ansub Khan</h1>
-<h3 align="center"> Front-End Engineer and Designer</h3>
+#### My Projects
+- 🖼 [Prettyfolio](https://prettyfolio.com/) - Discover the best portfolios, curated just for you.
+- 🎵 [Quote Vault](https://quote-vault.vercel.app/) - Elevate your thoughts, Inspire the world.
+- 😌 [Personal Website](http://ansubkhan.com/) - A website made by me about me. 
 
-
-<div align="center">
- <a href="https://ansubkhan.com/" target="_blank">About Me</a> | 
-  <a href="https://ansubkhan.com/projects" target="_blank">Projects</a> |
-   <a href="https://ansubkhan.com/blogs" target="_blank">Blogs</a> |
-  <a href="https://ansubkhan.com/socials" target="_blank">Socials</a> |
-  <a href="https://ansubkhan.com/contact" target="_blank">Contact</a>
-</div>
-
-
-
-
+#### 📬 Reach me at
+- 🐦 &nbsp;[Twitter](https://twitter.com/fedevitaledev/) <br/>
+- 📧 &nbsp;[Mail](mailto:khanansub3@gmail.com) <br/>
+- 🟦 &nbsp;[Linkedin](https://linkedin.com/in/ansub) <br/>
