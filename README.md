@@ -1,7 +1,7 @@
 ## Hi 👋, I'm Ansub Khan
 
 #### 👾 About Me
-- 👋 &nbsp;I'm 21, currently living in **India**
+- 👋 &nbsp;I'm 22, currently living in **India**
 - ✨ &nbsp;I make pixels and code dance in harmony.
 - ✍️ &nbsp;I share my findings and knowledge on [My Blog](https://ansubkhan.com/blogs)
 - 🤡 I work with React & Typescript and love to explore new technologies
