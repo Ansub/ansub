@@ -2,7 +2,7 @@
 
 #### 👾 About Me
 - 👋 &nbsp;I'm 22, currently living in **India**
-- ✨ &nbsp;I make pixels and code dance in harmony.
+- ✨ &nbsp;I make code and pixel dance in harmony.
 - ✍️ &nbsp;I share my findings and knowledge on [My Blog](https://ansubkhan.com/blogs)
 - 🤡 I work with React & Typescript and love to explore new technologies
 - 💻 I love creating beautiful UI for a better UX using Chakra UI / Tailwind CSS
