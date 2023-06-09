@@ -9,6 +9,7 @@
 - 📸 &nbsp;Photos on [Unsplash](https://unsplash.com/@ansubkhann)
 
 #### My Projects
+- 📃 [Enchant](https://enchant.ansubkhan.com/) - A vibrant & modern VS Code theme.
 - 📃 [CoverCraftr](https://cvgpt4.vercel.app/) - Create Cover Letters using GPT-4.
 - 🖼 [Prettyfolio](https://prettyfolio.com/) - Discover the best portfolios, curated just for you.
 - 🎵 [Quote Vault](https://quote-vault.vercel.app/) - Elevate your thoughts, Inspire the world.
