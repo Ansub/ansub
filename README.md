@@ -1,7 +1,7 @@
 ## Hi 👋, I'm Ansub Khan
 
 #### 👾 About Me
-- ✨ &nbsp;I make code and pixel dance in harmony.
+- ✨ &nbsp;I am a Developer & Designer.
 - ✍️ &nbsp;I share my findings and knowledge on [My Blog](https://ansubkhan.com/blogs)
 - 🤡 I work with React & Typescript and love to explore new technologies
 - 💻 I love creating beautiful UI/UX using Tailwind CSS
