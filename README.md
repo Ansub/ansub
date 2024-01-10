@@ -4,7 +4,7 @@
 - ✨ &nbsp;I am a Developer & Designer.
 - ✍️ &nbsp;I share my findings and knowledge on [My Blog](https://ansubkhan.com/blogs)
 - 🤡 I have experience working in two YC startups
-- 💻 I love creating beautiful UI/UX using Tailwind CSS
+- 💻 I love creating beautiful User Interface
 - 📸 &nbsp;Photos on [Unsplash](https://unsplash.com/@ansubkhann)
 
 #### My Projects
