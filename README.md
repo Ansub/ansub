@@ -3,7 +3,7 @@
 #### 👾 About Me
 - ✨ &nbsp;I am a Developer & Designer.
 - ✍️ &nbsp;I share my findings and knowledge on [My Blog](https://ansubkhan.com/blogs)
-- 🤡 I work with React & Typescript and love to explore new technologies
+- 🤡 I have experience working in two YC startups
 - 💻 I love creating beautiful UI/UX using Tailwind CSS
 - 📸 &nbsp;Photos on [Unsplash](https://unsplash.com/@ansubkhann)
 
