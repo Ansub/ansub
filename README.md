@@ -12,7 +12,6 @@
 - 🎨 [Enchant](https://enchant.ansubkhan.com/) - A vibrant & modern VS Code theme
 - 🖼 [Prettyfolio](https://prettyfolio.com/) - Discover the best portfolios, curated just for you
 - 😌 [Personal Website](http://ansubkhan.com/) - A website made by me about me
-- 💭 [Quote Vault](https://quote-vault.vercel.app) - Social media website, but for quotes
 
 #### 📬 Reach me at
 - 🐦 &nbsp;[Twitter](https://twitter.com/fedevitaledev/) <br/>
