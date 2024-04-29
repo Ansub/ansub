@@ -12,8 +12,3 @@
 - 🎨 [Enchant](https://enchant.ansubkhan.com/) - A vibrant & modern VS Code theme
 - 🖼 [Prettyfolio](https://prettyfolio.com/) - Discover the best portfolios, curated just for you
 - 😌 [Personal Website](http://ansubkhan.com/) - A website made by me about me
-
-#### 📬 Reach me at
-- 🐦 &nbsp;[Twitter](https://twitter.com/fedevitaledev/) <br/>
-- 📧 &nbsp;[Mail](mailto:khanansub3@gmail.com) <br/>
-- 🟦 &nbsp;[Linkedin](https://linkedin.com/in/ansub) <br/>
