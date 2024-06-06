@@ -1,4 +1,4 @@
-## Hi 👋, I'm Ansub Khan
+## Hi 👋, I'm Ansub
 
 #### 👾 About Me
 - ✨ &nbsp;I am a Developer & Designer
