@@ -1,6 +1,6 @@
 ## Hey, I'm Ansub 👋
 
-Co-founder of **Supafast** — a design agency that builds landing pages that actually convert.
+Co-founder of **[Supafast](https://withsupafast.com)** — a design agency that builds landing pages that actually convert.
 
 Previously founding engineer at two YC startups. Now I make videos about AI, design, and building businesses.
 
