@@ -6,11 +6,11 @@ Previously founding engineer at two YC startups. Now I make videos about AI, des
 
 ### Projects
 
-| Project | Description |
-|---------|-------------|
-| [SyntaxUI](https://syntaxui.com) ⭐ 975 | Pre-built Tailwind CSS components, animations & effects powered by Framer Motion |
-| [Boo](https://boo.ansub.co) ⭐ 8 | Customize your Ghostty terminal — color presets, glass opacity, privacy mode, startup dashboard |
-| [Enchant](https://github.com/ansub/enchant) ⭐ 16 | A VS Code theme |
+[SyntaxUI](https://syntaxui.com) — Pre-built Tailwind CSS components, animations & effects powered by Framer Motion
+
+[Boo](https://boo.ansub.co) — Customize your Ghostty terminal with color presets, glass opacity, and more
+
+[Enchant](https://github.com/ansub/enchant) — A VS Code theme
 
 ### Links
 
