@@ -7,6 +7,7 @@ Previously founding engineer at two YC startups. Now I make videos about AI, des
 ### Projects
 
 [SyntaxUI](https://syntaxui.com) — Pre-built Tailwind CSS components, animations & effects powered by Framer Motion
+
 [Wiki OS](https://github.com/Ansub/wiki-os) - A personal knowledge wiki with search, graph view, and People pages.
 
 [Boo](https://boo.ansub.co) — Customize your Ghostty terminal with color presets, glass opacity, and more
