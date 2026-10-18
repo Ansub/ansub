@@ -2,8 +2,8 @@
 
 # Hey, I'm Ansub 👋
 
-Co-founder of **[Supafast](https://withsupafast.com)**, a design agency that builds landing pages that actually convert.<br>
-Previously founding engineer at two YC startups. Now I build things with AI and make videos about it.
+I build things with AI and make videos about it.<br>
+Co-founder of **[Supafast](https://withsupafast.com)** · Previously founding engineer at two YC startups.
 
 [![YouTube](https://img.shields.io/badge/YouTube-@ansubkhan-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/@ansubkhan)
 [![X](https://img.shields.io/badge/X-@justansub-black?logo=x&logoColor=white)](https://x.com/justansub)
